@@ -16,7 +16,7 @@
    id="svg8646"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Jean_Claude_Constantin_Mad_in_China_2.svg">
+   sodipodi:docname="Jean_Claude_Constantin_Mad_in_China.svg">
   <defs
      id="defs8648">
     <mask
@@ -61,12 +61,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4892758"
-     inkscape:cx="161.36017"
-     inkscape:cy="829.42375"
+     inkscape:zoom="0.85326652"
+     inkscape:cx="361.41733"
+     inkscape:cy="934.54724"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
-     showgrid="false"
+     inkscape:current-layer="layer3"
+     showgrid="true"
      inkscape:window-width="1600"
      inkscape:window-height="850"
      inkscape:window-x="0"
@@ -89,7 +89,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -134,13 +134,24 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="backdrop"
+     style="display:inline">
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:29.05511856;stroke-opacity:1"
+       d="m 522.63773,0 453.5433,0 c 11.77796,0 21.25986,9.48188 21.25986,21.25984 l 0,311.81104 c 0,11.77794 -9.4819,21.25984 -21.25986,21.25984 l -453.5433,0 c -11.77796,0 -21.25984,-9.4819 -21.25984,-21.25984 l 0,-311.81104 C 501.37789,9.48188 510.85977,0 522.63773,0 Z"
+       id="path4208"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="cut"
      style="display:inline">
     <path
        id="rect4392-3"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:29.05511856;stroke-opacity:1"
-       d="m 21.25979,-1e-5 453.5433,0 c 11.77796,0 21.25986,9.48188 21.25986,21.25984 l 0,311.81104 c 0,11.77794 -9.4819,21.25984 -21.25986,21.25984 l -453.5433,0 c -11.77796,0 -21.25984,-9.4819 -21.25984,-21.25984 l 0,-311.81104 C -5e-5,9.48187 9.48183,-10e-6 21.25979,-10e-6 Z m 138.18898,70.86614 0,-35.43308 -124.01574,0 0,283.46458 177.16536,0 0,-17.71654 m -17.71654,0 0,-17.71654 m 35.43306,0 0,35.43308 159.44882,0 0,-70.86614 m 35.43308,0 0,17.71652 m 0,17.71654 0,17.71654 -17.71654,0 0,17.71654 53.1496,0 0,-212.59844 -35.43306,0 0,-35.43306 -35.43308,0 0,-17.71654 53.14962,0 0,35.43308 17.71652,0 0,-53.14962 -283.46456,0 0,17.71654 35.43308,0 m 0,53.1496 -17.71654,0"
+       d="m 21.25979,-1e-5 453.5433,0 c 11.77796,0 21.25986,9.48188 21.25986,21.25984 l 0,311.81104 c 0,11.77794 -9.4819,21.25984 -21.25986,21.25984 l -453.5433,0 c -11.77796,0 -21.25984,-9.4819 -21.25984,-21.25984 l 0,-311.81104 C -5e-5,9.48187 9.48183,-1e-5 21.25979,-1e-5 Z m 138.18898,70.86614 0,-35.43308 -124.01574,0 0,283.46458 177.16536,0 0,-17.71654 m -17.71654,0 0,-17.71654 m 35.43306,0 0,35.43308 159.44882,0 0,-70.86614 m 35.43308,0 0,17.71652 m 0,17.71654 0,17.71654 -17.71654,0 0,17.71654 53.1496,0 0,-212.59844 -35.43306,0 0,-35.43306 -35.43308,0 0,-17.71654 53.14962,0 0,35.43308 17.71652,0 0,-53.14962 -283.46456,0 0,17.71654 35.43308,0 m 0,53.1496 -17.71654,0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssssssssccccccccccccccccccccccccccccccccc" />
     <path
