@@ -23,11 +23,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0431332"
-     inkscape:cx="485.62348"
-     inkscape:cy="884.98248"
+     inkscape:zoom="2.9504263"
+     inkscape:cx="193.59673"
+     inkscape:cy="1022.1865"
      inkscape:document-units="mm"
-     inkscape:current-layer="g5902"
+     inkscape:current-layer="layer2"
      showgrid="false"
      width="400mm"
      inkscape:snap-bbox="true"
@@ -63,7 +63,7 @@
      inkscape:label="square"
      id="layer2"
      inkscape:groupmode="layer"
-     style="display:none">
+     style="display:inline">
     <g
        style="stroke:#ff0000;stroke-width:0.62007999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(1.1428548,0,0,1.1428548,-2.530883,-589.70486)"
@@ -215,7 +215,7 @@
         <g
            style="stroke:#00ff00;stroke-width:2.35265326;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="g5803"
-           transform="translate(0.36221,0)">
+           transform="translate(0.36221,-1.5912904)">
           <path
              inkscape:connector-curvature="0"
              id="path5797"
@@ -231,7 +231,7 @@
     </g>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:groupmode="layer"
      id="g5902"
      inkscape:label="board">
